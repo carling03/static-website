@@ -14,7 +14,7 @@ body {
 }
 
 h1, h2 {
-        font-family: "Lobster";
+        font-family: ""Noto Serif", 'Courier New', Courier, monospace";
     color:   #540375;
     font-size:200;
 }
@@ -27,6 +27,6 @@ h1, h2 {
     width: 150px;
 }
 #my-name{
-    font-family: " Noto Serif", 'Courier New', Courier, monospace;
+    font-family: "Lobster";
     color: #540375;
 }
