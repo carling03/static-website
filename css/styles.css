@@ -7,6 +7,7 @@
     box-sizing: border-box;
 }
 body {
+    text-align: left-side;
     text-align: center;
     background-color: beige;
     font-family: "Noto Serif", 'Courier New', Courier, monospace;
