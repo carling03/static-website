@@ -1,13 +1,13 @@
 body {
     text-align: center;
-    background-color: pink;
+    background-color: beige;
     font-family: "Noto Serif", 'Courier New', Courier, monospace;
     color: #F3EFE0;
 }
 
 h1, h2 {
     font-family:'Times New Roman', Times, serif;
-    color: black;
+    color:   black;
     font-size:200;
 }
 #content{
