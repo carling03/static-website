@@ -47,3 +47,7 @@ a {
     text-decoration: none;
     border-bottom: 1px dotted #182747;
 }
+
+.nav-link {
+    margin-left: 8px;
+}
