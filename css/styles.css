@@ -2,9 +2,16 @@ body {
     background-color: pink;
 }
 
-
 h1, h2 {
     font-family:'Times New Roman', Times, serif;
     color: black;
     font-size:200;
+}
+#content{
+    text-align: center;
+}
+
+#my-avatar{
+    border-radius: 50%;
+    width: 150px;
 }
