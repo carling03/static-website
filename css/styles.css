@@ -1,6 +1,8 @@
 body {
     text-align: center;
     background-color: pink;
+    font-family: "Noto Serif", 'Courier New', Courier, monospace;
+    color: #F3EFE0;
 }
 
 h1, h2 {
@@ -18,4 +20,5 @@ h1, h2 {
 }
 #my-name{
     font-family: " Noto Serif", 'Courier New', Courier, monospace;
+    color: #540375;
 }
