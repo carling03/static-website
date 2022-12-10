@@ -6,6 +6,12 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+html,
+body {
+    height: 100vh;
+    width: 100vw;
+}
 body {
      text-align: center;
     background-color: #8bbccc;
@@ -50,4 +56,19 @@ a {
 
 .nav-link {
     margin-left: 8px;
+}
+
+header {
+    margin-top: 16px;
+}
+
+.nav-link {
+    margin-left: 8px;
+    padding: 5px;
+}
+footer {
+    background-color: red;
+    position: absolute;
+    bottom: 0;
+    left: 50%
 }
